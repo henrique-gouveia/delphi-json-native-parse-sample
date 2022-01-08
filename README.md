@@ -1,2 +1,3 @@
-# Delphi-ObjectParse-Native
-Delphi VCL Application - Object Parse Demo com classes nativas.
+# Delphi JSON Native Parse Sample
+
+Exemplo de parse JSON com classes nativas com Delphi VCL Application.
